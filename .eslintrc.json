@@ -1,6 +1,7 @@
 {
   "extends": [
     "next/core-web-vitals",
-    "./node_modules/standard/eslintrc.json"
+    "./node_modules/standard/eslintrc.json",
+    "plugin:tailwindcss/recommended"
   ]
 }
